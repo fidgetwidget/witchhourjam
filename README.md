@@ -3,7 +3,12 @@ orca jam 2016
 
 It uses Pixi js and node express with webpack.
 
-npm install
-gulp
+Do this to get started:
 
-node server.js
+- npm install
+
+- gulp
+
+- node server.js
+
+it will break...
